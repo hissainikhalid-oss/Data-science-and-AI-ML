@@ -1,0 +1,7 @@
+obaid:-python
+Afnan:-c
+maaz:-C++
+
+rizwan: java
+khalid: python
+khalid: read 10 pages
