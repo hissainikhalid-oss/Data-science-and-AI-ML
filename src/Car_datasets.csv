@@ -1,0 +1,11 @@
+CarID,Brand,Model,Year,Transmission,Color,FuelType,EngineSize,Price
+1,Toyota,Corolla,2020,Automatic,Red,Petrol,1.8,20000
+2,Honda,Civic,2019,Manual,Blue,Petrol,2.0,22000
+3,Ford,Focus,2018,Automatic,Green,Diesel,2.0,21000
+4,Hyundai,Elantra,2021,Automatic,Red,Petrol,1.6,23000
+5,Maruti,Baleno,2020,Manual,White,Petrol,1.2,15000
+6,Tata,Nexon,2022,Automatic,Blue,Diesel,1.5,25000
+7,Skoda,Octavia,2019,Automatic,Black,Petrol,2.0,27000
+8,Volkswagen,Polo,2018,Manual,Green,Petrol,1.0,14000
+9,Kia,Seltos,2021,Automatic,Red,Diesel,1.5,26000
+10,Renault,Duster,2020,Manual,White,Diesel,1.6,24000

@@ -1,0 +1,11 @@
+EmpID,Age,Experience,Department,Salary,Performance
+1,22,1,IT,20000,2
+2,25,3,HR,30000,3
+3,28,5,IT,45000,4
+4,35,10,Finance,70000,5
+5,40,15,Finance,90000,4
+6,30,7,IT,55000,4
+7,26,4,HR,35000,3
+8,45,20,Management,120000,5
+9,32,8,IT,60000,4
+10,29,6,HR,40000,3
